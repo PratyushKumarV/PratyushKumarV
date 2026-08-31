@@ -1,3 +1,10 @@
+### 🧭 platopy · /plæ.tə.paɪ/
+> *the art of flattening lofty ideals, hidden depths, and chaotic peaks into a steady, face-value daily reality.*
+
+Just curious — about ideas, about how things work, about the space between a big concept and the small daily habit that actually gets you there.
+
+<br/>
+
 <div align="center">
 
 <img src="https://github.com/user-attachments/assets/021eb644-df00-4f32-af39-53187c953d71" width="100%"/>
@@ -12,11 +19,6 @@
 </div>
 
 ---
-
-### 🧭 platopy · /plæ.tə.paɪ/
-> *the art of flattening lofty ideals, hidden depths, and chaotic peaks into a steady, face-value daily reality.*
-
-Just curious — about ideas, about how things work, about the space between a big concept and the small daily habit that actually gets you there.
 
 
 <!--
