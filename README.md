@@ -21,21 +21,7 @@ just curious — about ideas, about how things work, about the space between a b
 
 <br/>
 
-<div align="center">
 
-### 📈 A quiet pulse of activity
-
-<img src="https://ghchart.rshah.org/36BCF7/PratyushKumarV" alt="GitHub contribution graph" width="90%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-*"Ideals, flattened into practice."*
-
-</div>
 
 <!--
 **PratyushKumarV/PratyushKumarV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
