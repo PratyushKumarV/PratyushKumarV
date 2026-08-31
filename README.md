@@ -16,9 +16,7 @@
 ### 🧭 platopy · /plæ.tə.paɪ/
 > *the art of flattening lofty ideals, hidden depths, and chaotic peaks into a steady, face-value daily reality.*
 
-I'm a student who's just curious — about ideas, about how things work, about the space between a big concept and the small daily habit that actually gets you there. Still learning, still figuring it out, mostly just showing up and poking at things.
-
-
+Just curious — about ideas, about how things work, about the space between a big concept and the small daily habit that actually gets you there. Still learning, still figuring it out, mostly just showing up and poking at things.
 
 
 
