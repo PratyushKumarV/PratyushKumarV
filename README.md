@@ -3,7 +3,7 @@
 <img src="https://github.com/user-attachments/assets/021eb644-df00-4f32-af39-53187c953d71" width="100%"/>
 
 <br/>
-
+<br />
 <!-- Socials / links row -->
 <a href="https://github.com/PratyushKumarV">
   <img src="https://img.shields.io/github/followers/PratyushKumarV?label=Follow&style=social" />
