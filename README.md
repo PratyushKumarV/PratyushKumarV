@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Pixel-wave banner with text -->
-<img src="https://capsule-render.vercel.app/api?type=pixelWave&color=36BCF7&height=200&section=header&text=Hi,%20I'm%20Platopy&fontAlign=50&fontAlignY=40&fontSize=40&fontColor=FFFFFF" width="100%"/>
+https://github.com/user-attachments/assets/021eb644-df00-4f32-af39-53187c953d71
 
 <br/>
 
@@ -17,7 +16,8 @@
 ### 🧭 platopy · /plæ.tə.paɪ/
 > *the art of flattening lofty ideals, hidden depths, and chaotic peaks into a steady, face-value daily reality.*
 
-Just curious — about ideas, about how things work, about the space between a big concept and the small daily habit that actually gets you there. Still learning, still figuring it out, mostly just showing up and poking at things.
+I'm a student who's just curious — about ideas, about how things work, about the space between a big concept and the small daily habit that actually gets you there. Still learning, still figuring it out, mostly just showing up and poking at things.
+
 
 
 
