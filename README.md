@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Typing animation header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Platopy;Curious%2C+always+learning." alt="Typing SVG" />
+<!-- Pixel-wave banner with text -->
+<img src="https://capsule-render.vercel.app/api?type=pixelWave&color=36BCF7&height=200&section=header&text=Hi,%20I'm%20Platopy&fontAlign=50&fontAlignY=40&fontSize=40&fontColor=FFFFFF" width="100%"/>
 
 <br/>
 
@@ -17,9 +17,8 @@
 ### 🧭 platopy · /plæ.tə.paɪ/
 > *the art of flattening lofty ideals, hidden depths, and chaotic peaks into a steady, face-value daily reality.*
 
-just curious — about ideas, about how things work, about the space between a big concept and the small daily habit that actually gets you there
+Just curious — about ideas, about how things work, about the space between a big concept and the small daily habit that actually gets you there. Still learning, still figuring it out, mostly just showing up and poking at things.
 
-<br/>
 
 
 
