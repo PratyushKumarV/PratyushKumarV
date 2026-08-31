@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Pratyush+%F0%9F%91%8B;Perpetually+curious+student;Flattening+ideals+into+everyday+practice" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Platopy;Curious%2C+always+learning." alt="Typing SVG" />
 
 <br/>
 
@@ -17,7 +17,7 @@
 ### 🧭 platopy · /plæ.tə.paɪ/
 > *the art of flattening lofty ideals, hidden depths, and chaotic peaks into a steady, face-value daily reality.*
 
-I'm a student who's just curious — about ideas, about how things work, about the space between a big concept and the small daily habit that actually gets you there. Still learning, still figuring it out, mostly just showing up and poking at things.
+just curious — about ideas, about how things work, about the space between a big concept and the small daily habit that actually gets you there
 
 <br/>
 
@@ -25,7 +25,7 @@ I'm a student who's just curious — about ideas, about how things work, about t
 
 ### 📈 A quiet pulse of activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PratyushKumarV&theme=tokyo-night&hide_border=true" width="90%"/>
+<img src="https://ghchart.rshah.org/36BCF7/PratyushKumarV" alt="GitHub contribution graph" width="90%"/>
 
 </div>
 
@@ -33,7 +33,7 @@ I'm a student who's just curious — about ideas, about how things work, about t
 
 <div align="center">
 
-*"One flat stone at a time."*
+*"Ideals, flattened into practice."*
 
 </div>
 
